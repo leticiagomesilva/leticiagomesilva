@@ -31,6 +31,8 @@ Obrigado por visitar meu perfil!👋
 
 </div>
 
+<h1 align="center">Letícia Gomes da Silva</h1>
+
 Hi there 👋, I’m a developer committed to innovation, continuous learning and positive impact through technology.
 
 I currently work at Technook as a frontend developer.
